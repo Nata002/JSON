@@ -1,21 +1,24 @@
 		{
-  "Documantation": {
+  "Documantation": {[
     "Bug-reports", 
     "Test_cases", 
-    "Check_lists"
+    "Check_lists"]
   },
-  "Programs": {
+  "Programs": {[
     "Postman", 
-    "Fidler"},
-  "Dev_Tools": {
+    "Fidler"
+    "Git",
+  "Jmeter",
+  "Python"]},
+  "Dev_Tools": {[
     "Google Chrome", 
     "FireFox"
-  },
-  "Mobile_Testing": {
+  ]},
+  "Mobile_Testing": {[
     "Android", 
     "IOS"
-  },
-  "Basics_SQL": {
+  ]},
+  "Basics_SQL": {[
     "Create", 
     "Delete", 
     "Drop",
@@ -24,7 +27,4 @@
     "From", 
     "Where", 
     "Join"
-  },
-  "Git",
-  "Jmeter",
-  "Python"}
+  ]},
